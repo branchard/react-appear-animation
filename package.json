@@ -1,0 +1,22 @@
+{
+  "name": "react-appear-animation",
+  "version": "0.1.0",
+  "description": "A simple and lightweight appear animation component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branchard/react-appear-animation.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "branchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branchard/react-appear-animation/issues"
+  },
+  "homepage": "https://github.com/branchard/react-appear-animation#readme"
+}
